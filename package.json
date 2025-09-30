@@ -1,0 +1,26 @@
+{
+  "name": "bibliotecaatividade",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Figor2009/bibliotecaatividade.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Figor2009/bibliotecaatividade/issues"
+  },
+  "homepage": "https://github.com/Figor2009/bibliotecaatividade#readme",
+  "description": "",
+  "dependencies": {
+    "@prisma/client": "^6.16.2",
+    "express": "^5.1.0",
+    "prisma": "^6.16.2"
+  },
+  "type": "module"
+}
